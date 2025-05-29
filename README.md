@@ -1,8 +1,8 @@
 # IHC Staining Quantification Software
 
-This Python software can be used to quantify Immunohistochemistry staining intensity and positive cell density. The program uses OpenCV package to count the number of cells in the field and quantify positive staining signals. The software was implemented into user-friendly application using Tkinter Module. The program allows users to threshold positive staining based on their scans.
+This Python-based application enables accurate quantification of Immunohistochemistry (IHC) staining intensity and positive cell density in tissue samples. Leveraging the OpenCV library, the software detects and counts cells within microscopic fields while measuring the extent of positive staining. A user-friendly interface built with the Tkinter module allows researchers to easily adjust staining thresholds based on their specific slide scans.
 
-The IHC Staining Quantification Software can assist biologists in quantifying staining for research.
+Designed to support biologists and researchers, this tool streamlines the analysis of IHC-stained tissues, making quantification more efficient, reproducible, and accessible.
 
 <img width="987" alt="Screenshot 2025-05-29 at 11 37 00 AM" src="https://github.com/user-attachments/assets/43b94db8-13d2-489a-b8de-c66db98af66c" />
 
