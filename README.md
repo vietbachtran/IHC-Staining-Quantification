@@ -6,8 +6,9 @@ Designed to support biologists and researchers, this tool streamlines the analys
 
 <img width="987" alt="Screenshot 2025-05-29 at 11 37 00 AM" src="https://github.com/user-attachments/assets/43b94db8-13d2-489a-b8de-c66db98af66c" />
 
-## Example application
+## Example applications
 
-<img width="1045" alt="Screenshot 2025-05-29 at 11 38 03 AM" src="https://github.com/user-attachments/assets/8ec54f46-bff6-4e1b-9d97-d24decfac046" />
+<img width="915" alt="Screenshot 2025-05-30 at 11 39 22 AM" src="https://github.com/user-attachments/assets/443ed660-037b-4194-9c85-0b33dd51d076" />
 
-<img width="1084" alt="Screenshot 2025-05-29 at 11 38 17 AM" src="https://github.com/user-attachments/assets/fe285c09-f62a-49a0-baba-ff1d48f0ad8c" />
+
+<img width="915" alt="Screenshot 2025-05-30 at 11 39 32 AM" src="https://github.com/user-attachments/assets/c68922b6-a9a4-41d4-8eb1-3c2a017e7d66" />
